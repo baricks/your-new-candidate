@@ -1,0 +1,532 @@
+Feinstein
+Grassley
+Hatch
+Shelby
+Inhofe
+Roberts
+Mikulski
+McCain
+Cochran
+Reid
+Leahy
+Alexander
+Boxer
+Sanders
+McConnell
+Nelson
+Risch
+Coats
+Cardin
+Enzi
+King
+Durbin
+Isakson
+Blumenthal
+Markey
+Sessions
+Carper
+Shaheen
+Manchin
+Hirono
+Udall
+Wyden
+Warren
+Reed
+Perdue
+Blunt
+Stabenow
+Murray
+Schumer
+Boozman
+Fischer
+Crapo
+Franken
+Wicker
+Cornyn
+Barrasso
+Corker
+Brown
+Collins
+McCaskill
+Moore Capito
+Menendez
+Moran
+Rounds
+Warner
+Johnson
+Graham
+Donnelly
+Whitehouse
+Heitkamp
+Burr
+Portman
+Tester
+Merkley
+Hoeven
+Murkowski
+Cassidy
+Kaine
+Cantwell
+Peters
+Kirk
+Casey, Jr.
+Heller
+Klobuchar
+Tillis
+Thune
+Vitter
+Toomey
+Baldwin
+Daines
+Flake
+Paul
+Coons
+Sullivan
+Bennet
+Scott
+Gillibrand
+Lankford
+Ayotte
+Booker
+Ernst
+Cruz
+Rubio
+Lee
+Heinrich
+Sasse
+Schatz
+Murphy
+Gardner
+Cotton
+Kinzinger
+Schiff
+Smith
+Smith
+Green
+Grayson
+Lowenthal
+Sires
+L. Hastings
+Mooney
+Adams
+Bera
+Crenshaw
+Carson
+Harris
+Barr
+Kirkpatrick
+Wagner
+Eshoo
+Kuster
+Scott
+Comstock
+Lee
+Loudermilk
+Ray Lujan
+Thompson
+O'Rourke
+McCollum
+Flores
+Foster
+Huizenga
+Johnson
+Keating
+Pascrell
+Posey
+Shuster
+Long
+Luetkemeyer
+Farenthold
+Gibbs
+Goodlatte
+E. Latta
+L. Rush
+Scott
+Watson Coleman
+Ashford
+Sherman
+Wenstrup
+Byrne
+Lawrence
+Boyle
+Guthrie
+Babin
+Higgins
+Poliquin
+Westerman
+Miller
+Curbelo
+B. Maloney
+McMorris Rodgers
+Richmond
+Boustany Jr.
+J. Fleischmann
+B. Rangel
+W. Dent
+Pingree
+Bustos
+Collins
+Gibson
+Smith
+Stewart
+Van Hollen
+Peterson
+Brown
+Hardy
+Clawson
+Lummis
+Benishek
+Kildee
+Newhouse
+Rohrabacher
+Donovan
+Lipinski
+Webster
+K. Davis
+LaHood
+Issa
+Loebsack
+Reichert
+Brat
+N. Cicilline
+Jolly
+Joyce
+McKinley
+Price
+Rouzer
+Schweikert
+Scott
+Trott
+G. Valadao
+Young
+Dingell
+Wasserman Schultz
+A. Ross
+Heck
+Kilmer
+Nunes
+DeGette
+Black
+Titus
+Beyer
+Young
+Norcross
+Payne, Jr.
+Edwards
+Matsui
+Collins
+LaMalfa
+Lamborn
+Hunter
+Ruppersberger
+"Buddy" Carter
+Blumenauer
+Perlmutter
+Bernice Johnson
+Royce
+Cummings
+Engel
+Stefanik
+Esty
+Cleaver
+Swalwell
+Paulsen
+Jenkins
+Vela
+Guinta
+LoBiondo
+D. Lucas
+Pallone
+Upton
+S. Wilson
+Hill
+Butterfield
+Graves
+Palmer
+Green
+E.B. Holding
+Connolly
+Grothman
+Thompson
+Meng
+Napolitano
+Walden
+Harper
+W. Meeks
+M. Bilirakis
+Graham
+Moore
+Jeffries
+Rogers
+Johnson
+Cuellar
+Ros-Lehtinen
+Speier
+Walorski
+Herrera Beutler
+E. Clyburn
+Schakowsky
+Hahn
+Huffman
+Polis
+Chaffetz
+Smith
+Hensarling
+Denham
+Duncan
+Fortenberry
+Miller
+Nadler
+McNerney
+Bridenstine
+Cooper
+Costa
+Himes
+Jordan
+Langevin
+McDermott
+McGovern
+B. Renacci
+Sensenbrenner
+Castro
+Hice
+Barton
+Courtney
+Heck
+Wilson
+C. Carney Jr.
+Carter
+Conyers, Jr.
+Culberson
+Delaney
+J. Duncan, Jr.
+Fleming
+Garamendi
+Katko
+Kline
+B. Larson
+Lewis
+L. Mica
+Moolenaar
+Ratcliffe
+Sarbanes
+Shimkus
+A. Yarmuth
+E. Serrano
+Crowley
+Kennedy III
+R. Pitts
+Beatty
+Vargas
+Chu
+Brownley
+Amash
+Bass
+Clark
+M. Rice
+Castor
+Granger
+Ellison
+Rothfus
+Buck
+Calvert
+Marchant
+Brady
+Cramer
+McCarthy
+Yoder
+L. Noem
+Schrader
+Sinema
+Smith
+Bucshon
+Zeldin
+Lance
+Sanchez
+Doggett
+Capps
+Frankel
+Sanchez
+Barletta
+B. "Louie" Gohmert J
+Slaughter
+Roybal-Allard
+V. Gutierrez
+Messer
+Jenkins
+A. Westmoreland
+Thornberry
+Veasey
+L. Fudge
+Kaptur
+Diaz-Balart
+Amodei
+DeSaulnier
+Meadows
+Pocan
+Sanford
+Takano
+Walker
+Mullin
+A. Stutzman
+Blackburn
+McSally
+Roby
+Cartwright
+Salmon
+Waters
+Love
+Bishop
+C. Burgess
+Capuano
+F. Doyle
+G. Fitzpatrick
+McCaul
+K. Simpson
+R. Turner
+Lujan Grisham
+"Mick" Mulvaney
+Bost
+Coffman
+Conaway
+Honda
+Kelly
+Pompeo
+Quigley
+Rogers
+Thompson
+Walters
+Brooks
+Griffith
+Pelosi
+Tsongas
+Lowey
+Torres
+Velázquez
+T. McHenry
+Meehan
+Murphy
+J. Tiberi
+Cook
+Gosar
+Ryan
+Tonko
+Aguilar
+Olson
+Sessions
+DeFazio
+T. King
+J. Roskam
+J. Visclosky
+Welch
+Roe
+Abraham
+Forbes
+Hultgren
+Neugebauer
+Weber
+Grijalva
+R. Labrador
+Ruiz
+Ribble
+Ellmers
+L. Hanna
+Hudson
+Neal
+B. Nugent
+Allen
+Crawford
+Larsen
+Nolan
+Bishop
+Wittman
+Woodall
+Aderholt
+Brady
+J. Dold
+Hurt
+Pittenger
+Kelly
+Blum
+Davis
+Frelinghuysen
+Williams
+DeSantis
+Kind
+L. DeLauro
+Gallego
+Hinojosa
+Costello
+Zinke
+Farr
+Graves
+Johnson
+Levin
+Bishop, Jr
+DesJarlais
+Garrett
+Perry
+Peters
+Rigell
+Tipton
+Duffy
+Maloney
+Moulton
+Jackson Lee
+Hoyer
+Knight
+Lee Fincher
+Lynch
+Chabot
+Cohen
+Israel
+King
+Pearce
+Russell
+Scalise
+Stivers
+Womack
+Palazzo
+Brooks
+Davis
+DelBene
+Bonamici
+Duckworth
+E. Deutch
+Lieu
+Poe
+Yoho
+Sewell
+Massie
+J. Rooney
+Huelskamp
+Murphy
+Ryan
+Walberg
+Walz
+Rokita
+C. Young
+Cole
+Emmer
+Graves
+MacArthur
+Marino
+McClintock
+Price
+Reed
+Rice
+Cardenas
+Franks
+Kelly
+Gowdy
+Gabbard
+Buchanan
+Hartzler
+Foxx
+B. Jones
+Davidson
+Hurd
+Lacy Clay
+Becerra
+D. Clarke
+Lofgren
