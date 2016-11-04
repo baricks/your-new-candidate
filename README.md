@@ -1,5 +1,5 @@
 #Description
-Your New Candidate is a Twitter bot that generates names of new presidential candidates, names of their parties, and a recent headshot. The bot lives here:
+Your New Candidate is a Twitter bot that generates names of new presidential candidates, names of their parties, and a recent headshot. The bot lives here: https://twitter.com/yrcandidate
 
 #Dependencies/Packages
 After setting up a virtual environment, install twython using pip.
